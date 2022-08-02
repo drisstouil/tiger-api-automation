@@ -7,7 +7,7 @@ import com.github.javafaker.Faker;
 
 public class DataGenerator {
 
-
+// test number 2
 	public  static String getEMAIL() {
 		
 		Faker faker = new  Faker();
